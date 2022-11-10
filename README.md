@@ -3,9 +3,9 @@
 This is just a simple python script designed to turn Ringsdb.com decklists downloaded in "Text File" form into Tabletop Simulator compatible deck template images for easy import. Images are generated via Pillow image composition. This should be cross-platform, but I've only built it with python 3.9 on windows so far.
 
 To run:
-	* install all requirements using pip and the included requirements.txt file
-	* organize your card images as listed below
-	* run `python deckbuilder-of-rings.py` and wait. Total runtime will depend on the number of decks being created, but should only take a few minutes at most
+* install all requirements using pip and the included requirements.txt file
+* organize your card images as listed below
+* run `python deckbuilder-of-rings.py` and wait. Total runtime will depend on the number of decks being created, but should only take a few minutes at most
 
 Note that this application does not include any images, names, or likenesses of the cards to be used, and no scraping capability is planned to be added. This tool will only work if you can provide the images yourself.
 
