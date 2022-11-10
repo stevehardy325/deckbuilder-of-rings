@@ -10,13 +10,14 @@ To run:
 Note that this application does not include any images, names, or likenesses of the cards to be used, and no scraping capability is planned to be added. This tool will only work if you can provide the images yourself.
 
 The directory format for card images should look something like this:
+* root directory/
 	* deckbuilder-of-rings.py
 	* decks/
 		* decklist1.txt
 		* decklist2.txt
-	* Cycle Name
-		* Set Name
-			* Player Cards
+	* Cycle Name/
+		* Set Name/
+			* Player Cards/
 				* Player Card 1 Name.jpg
 				* Player Card 2 Name.jpg
 				* ...
